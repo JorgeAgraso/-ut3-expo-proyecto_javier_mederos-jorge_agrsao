@@ -93,6 +93,7 @@ movie-tracker-simple/
 
 ## 👤 Autor
 
-**Javi** - Desarrollo de Aplicaciones Multiplataforma (DAM)  
+**Javi Mederos** - Desarrollo de Aplicaciones Multiplataforma (DAM)
+**Jorge Agraso** - Desarrollo de Aplicaciones Multiplataforma (DAM)
 Proyecto Final UT3 - 2025/2026
 
